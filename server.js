@@ -1,6 +1,7 @@
 const path = require('path')
 const fs = require('fs')
 const jsonServer = require('json-server')
+const jwt = require('jsonwebtoken')
 const server = jsonServer.create()
 //const router = jsonServer.router('db.json');
 const router = jsonServer.router(path.join(__dirname, 'db.json'))
