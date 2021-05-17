@@ -3,13 +3,13 @@
     {
       "id": 1,
       "nickname": "admin",
-      "email": "admin@gg.com",
+      "email": "admin@test.com",
       "password": "admin111",
       "type": 1
     },
     {
       "id": 2,
-      "email": "popo@gg.com",
+      "email": "popo@test.com",
       "password": "123456",
       "nickname": "popo",
       "type": 0
