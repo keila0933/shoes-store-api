@@ -13,6 +13,13 @@
       "password": "123456",
       "nickname": "popo",
       "type": 0
+    },
+    {
+      "id": 3,
+      "email": "testuser@test.com",
+      "password": "123456",
+      "nickname": "testuser",
+      "type": 0
     }
   ]
 }
